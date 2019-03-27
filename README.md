@@ -1,0 +1,3 @@
+# PrettyKool
+yes
+Omega
